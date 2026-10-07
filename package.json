@@ -1,0 +1,16 @@
+{
+  "name": "coding-harness",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "ai": "^7.0.131",
+    "ollama-ai-provider-v2": "^4.0.1"
+  }
+}
